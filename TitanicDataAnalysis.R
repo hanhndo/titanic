@@ -327,3 +327,9 @@ ggplot(data.combined[1:891,], aes(x=Embarked, fill=Survived))+
   ylim(0,350)+
   labs(fill="Survived")+
   facet_wrap(~Pclass+Title)
+
+#connect to GitHub repository
+#can I?
+#let see if it works
+
+#please work
