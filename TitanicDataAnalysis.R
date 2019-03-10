@@ -329,3 +329,4 @@ ggplot(data.combined[1:891,], aes(x=Embarked, fill=Survived))+
   facet_wrap(~Pclass+Title)
 
 #how to make changes on GitHub and sync to desktop
+#let's see if it continues to work
